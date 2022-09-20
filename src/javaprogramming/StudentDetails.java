@@ -17,7 +17,7 @@ public class StudentDetails {
 		sd2.init("Asha",2,"Cec");
 		sd2.display();
 	}
-	//Function to initialise the data members
+	//Function to initialize the data members
 	void init(String name_temp,int rolno_temp,String group_temp)
 	{
 		name = name_temp;
